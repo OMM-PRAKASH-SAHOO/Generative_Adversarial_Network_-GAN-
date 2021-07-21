@@ -10,3 +10,6 @@ A generative adversarial network (GAN) is a machine learning (ML) model in which
 2. **GAN_Model**: Here is optimized and more efficient model, I could made that the above. This Notbook contains the code. I have not saved the model, So to get a clear view of generated image, It may take a more time. In my case that was about 1hrs on Google Colab.
 3. **GAN_Model_Report**: Here I have explained, in depth view of GAN model in pictorial view, and what changes I had made in my baseline_GAN model to get more efficient one i.e. GAN_Model.
 
+#### I hope you'll find this useful. 
+### I have also provided the link to both Notbooks(i.e. Baseline_GAN, GAN_Model) in the **GAN_Model_Report**(at the end of the doc). 
+
